@@ -60,7 +60,6 @@
             // list of rows which we're going to loop through
             var aiRows;
 
-            
             if (bFiltered == true) {
 				// use only filtered rows
 				aiRows = oSettings.aiDisplay;
